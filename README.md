@@ -1,6 +1,8 @@
 # Docker Swarm ELK Stack
  Deploy ELK Stack in Docker Swarm
 
+![logo](elk-stack.png)
+
 By default, the stack exposes the following ports:
 * **5000** : Logstash TCP input
 * **9200** : Elasticsearch HTTP
