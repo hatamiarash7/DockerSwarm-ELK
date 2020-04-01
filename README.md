@@ -34,3 +34,4 @@ docker.elastic.co/kibana/kibana-oss:7.6.1
 ```
 
 * Remove XPack options from config files
+* Remove user/pass for logstash pipline
